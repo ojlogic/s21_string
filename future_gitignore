@@ -55,8 +55,11 @@ objects/
 logs/
 
 # VSCode and other local settings
-.vscode*
-.clang-format
+# не забудь включить перед отправкрой
+#.vscode*
+#.clang-format
+
+
 *.cfg
 tmp_test.c
 
